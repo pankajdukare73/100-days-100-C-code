@@ -15,3 +15,5 @@ Start coding! Solve the daily challenges and push your solutions.
 Optionally, create a pull request to share your solution with the community.
 Let's Code, Learn, and Grow Together!
 
+day 1:Check if a Number is Positive or Negative in C++
+
